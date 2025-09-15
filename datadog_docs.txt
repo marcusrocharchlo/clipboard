@@ -1,0 +1,78 @@
+- DATADOG:
+
+Learning Center:
+https://learn.datadoghq.com/collections
+
+Gravações das Sessões de Fundamentos de Datadog:
+ 
+Tagging:
+https://datadog.zoom.us/rec/share/FPG_NbruzZUIilQwt2OZSUbBQ8fBexF-2dnvIx1QblYOA7rf8sXF0fdvJSTqws4d.LKuYqoowXsmY0uaR
+ 
+Monitoramento de Infraestrutura
+https://datadog.zoom.us/rec/share/zK_Rb2cb1hJCA7J3JSe3ujlmzf-VpHmnZLy9GuLuMSROc2f3LGfXX-MHoICiqcPH.z2VhatN-Ft8AfNeP
+
+Introdução ao Datadog 
+https://datadog.zoom.us/rec/share/zzOWP9JH6nbvt2G1MeNzTLsVl5NHCJ_UuUfRy_LKUdVWLpqPrwi2So6jRLfzkxcq.Ygv4c1iZ38W0Trfh
+ 
+Datadog Event Management
+https://datadog.zoom.us/rec/share/m8XQ6dD9q9F1R5tvsylac0SGKKEcNdiJQUryj8_sAa0noSHWvIxpjf6muS6a9-qS.MkBgV1ak5QQYnxhn
+ 
+Datadog Data Streams Monitoring
+https://datadog.zoom.us/rec/share/uz7b034gSD4TarEzUaLrt3QnYm77aWrmqE_H2ysO8PY0OoP0aod_GKJ_JG3wFj0g.f1wCSsnd7mYmCuyd
+ 
+Datadog DORA Metrics
+https://datadog.zoom.us/rec/share/KHGztjsRrEusDPuVPtyAP1QgVLiGAIyo7H4ZuA87InkDMvCqKtdbksEZ78kgSs0.SXWFlanNSrxjMFeb
+ 
+Datadog Bits AI
+https://datadog.zoom.us/rec/share/myjqgCfgXOP84T_OgDlBxaiJ2PvsiIsyqSl-o3jjN46t8OLhxKOILS_qr3BBkWdU._hds3AiFpagUyjWS
+ 
+Introdução ao APM:
+https://datadog.zoom.us/rec/share/9IZtF7706rv2AF4CDkK_k3P5l0nJ-kl9LPAF3sFjrPugKTz9xTCiQDXql-mnue_k.TBFUuQfd6OPsig1j
+
+APM Intermediário:
+https://datadog.zoom.us/rec/share/i7-aMRN0-7G5hgTWZ9zGgxe3nDEaICtIGuX6iO4eoHUzmNSHQ1OqKuVWo96Sfysg.lEArfUEyliVTbFhr
+ 
+Gerenciamento de Logs:
+https://datadog.zoom.us/rec/share/hnoOsRwi847onvsFdEape-ZKgW5-0sVVqLjfd3Z0JxMsD4YNikOkM-ci8sMHx2CB.FE8lBGXFx08bxmsF
+ 
+Introdução ao Monitoramento de Kubernetes:
+https://datadog.zoom.us/rec/share/pzAvgCqblBmWLY7yglnypkSN0DV_xiyjVsglWNcQXUI-h3t-IoOryAE_rBDP4uIV.4GWA247S0v6orSkL
+ 
+Continuous Profiler:
+https://datadog.zoom.us/rec/share/H-OEBQVG3MaT5mi5AYNwXC9WGJUgFKx_aj0x8E1qFRMK9tjV9qGLMLBtOgicKAfP.-rTgXSQR2OFs266_
+ 
+Database Monitoring:
+https://datadog.zoom.us/rec/share/rHraTGE39PnEkdLBneA8OKFpBmX7Czqog1vSL2Dw2x_Xdj5URqABzvSNZ4h0Ma3c.ddTImjV_QyDHs1Kn
+
+Cloud Network Monitoring:
+https://datadog.zoom.us/rec/share/CExe7DzTYvxMGFPOhu0QVFBaeWkJZpyp5OHAJ3uJh_QKAN2BNShlbRqXRUdoUWXm.4IWTHYscQBRWB-69
+ 
+Monitoramento AWS Serverless:
+https://datadog.zoom.us/rec/share/SOpQ1P5WpHuJiPCxrblAJU9JPhGx8iuv7YJusrq5j-D1JekHjpiOpGuMpZz6YN_f.dgZmKwu0Ek962cFr
+ 
+Introdução aos Monitores Datadog:
+https://datadog.zoom.us/rec/share/0vO0kQq5quI53c1dqQY-aJxYmYlAQWhQPyA1I4J4L9nR3nG5D-CqjuuuQIXG_qxl.pLOK58RvX6UfRzlr
+ 
+ 
+Introdução aos SLOs Datadog:
+https://datadog.zoom.us/rec/share/OFHhewetzV4d7I8isd01Kr2fGzHqPloch5RcHGsKi5ODAV3tzC4ZeQiQhb6lv2gj.uxF2XJNTnyAv3JwS
+ 
+Introdução ao Real User Monitoring (RUM):
+https://datadog.zoom.us/rec/share/9h7REZtXJi6VBGDgxdlnHSeWuZIMvhkpWVTmNhzbZh4O9nVCGZ3wqacuv6QHh-8.4CZ3EyPiz05JHLFR
+ 
+Introdução ao Synthetics:
+https://datadog.zoom.us/rec/share/TmPNbAL8iKVCai-cBixvA77gz93oHXRlrmZbkOlnBOE7omo8QUdmiEz5rkg8FfZH.yN2HO0HFh9F3ndoF
+ 
+Monitorando uma aplicação de IA com a Datadog:
+https://datadog.zoom.us/rec/share/fj-wc45B3RAAMiCOBkL16hmsT9A10u9xE_klUdo2ohYvkQNdZiSd4HcxFYn4ULQW.ZHPxjOzjQmMUljah
+ 
+Introdução ao Cloud Cost Management:
+https://datadog.zoom.us/rec/share/vyhefXJwpZ4vqs9rkrjh62QWfPbPXfeAvRCzaWWfTTqc-yDCG1GH-YmD6i-nl6Vg.GQGPvcpW_nncDw8B
+
+---------------
+https://www.datadoghq.com/technical-enablement/sessions/?language=portuguese
+ 
+https://www.datadoghq.com/technical-enablement/sessions/djmportuguese/
+ 
+https://www.datadoghq.com/technical-enablement/sessions/codesecportuguese/
+ 
